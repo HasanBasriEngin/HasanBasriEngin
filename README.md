@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am a passionate Software Developer dedicated to building functional, scalable, and user-friendly applications. I love exploring new technologies and contributing to the open-source community.
 
 
@@ -12,11 +12,7 @@ I am a passionate Software Developer dedicated to building functional, scalable,
 ![](https://nirzak-streak-stats.vercel.app/?user=HasanBasriEngin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanBasriEngin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HasanBasriEngin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HasanBasriEngin&limit=5&theme=dark&combine_all_yearly_contributions=true)
