@@ -1,6 +1,5 @@
 #  About Me:
-I'm a Software Engineering student focused on Cybersecurity and Software Development. I'm particularly interested in Network Security, Blue Team operations, secure systems, and security automation. I enjoy understanding how systems and network protocols work at a technical level and building tools to automate security tasks.
-
+A software engineering student working in cybersecurity, mainly on the SOC side. I also build full-stack applications end to end, from backend services and APIs to the frontend layer. I am currently preparing for the HTB Certified Defensive Security Analyst (CDSA) and CCNA certifications.
 
 ##  Socials:
 
